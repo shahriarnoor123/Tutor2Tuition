@@ -1,0 +1,6 @@
+{
+  "name": "Tutor2Tuition",
+  "description": "Find the Right Tutor. Find the Right Tuition. Bangladesh's smart tuition marketplace connecting students, parents, and verified tutors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
